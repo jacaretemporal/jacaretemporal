@@ -1,6 +1,7 @@
 # sobre mim
 - 👋 Hi, I’m @jacaretemporal
 - meu email e jose.vale.valentim@scola.pr.gov.br
+-
 - 👀 eu estou enteressado em aprender aprogamar
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
